@@ -8,5 +8,5 @@
   "rangeStrategy": "auto",
   "rebaseStalePrs": false,
   "assignees": ["arnaudhuc'],
-  "labels": ["AutoUpdate"],
+  "labels": ["AutoUpdate"]
 }
